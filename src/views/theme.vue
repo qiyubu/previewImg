@@ -20,7 +20,6 @@
   export default {
     data () {
       return {
-        msg: 'Hello World!',
         imgList: [
           {path: 'http://ppt.h3c.com:5005/static/img/theme/theme1.jpg'},
           {path: 'http://ppt.h3c.com:5005/static/img/theme/theme2.jpg'},
